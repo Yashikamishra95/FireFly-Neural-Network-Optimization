@@ -1,0 +1,148 @@
+Population Size: 50, Iterations: 150
+Training Accuracy: 12.39%
+Testing Accuracy: 11.67%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 17.68%
+Testing Accuracy: 15.28%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 12.18%
+Testing Accuracy: 13.33%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 19.00%
+Testing Accuracy: 21.67%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 13.50%
+Testing Accuracy: 10.83%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 16.14%
+Testing Accuracy: 15.56%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 12.80%
+Testing Accuracy: 13.89%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 9.53%
+Testing Accuracy: 8.89%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 13.50%
+Testing Accuracy: 13.33%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 24.63%
+Testing Accuracy: 21.67%
+--------------------------------------------------
+Population Size: 80, Iterations: 100
+Training Accuracy: 32.01%
+Testing Accuracy: 31.67%
+--------------------------------------------------
+Population Size: 80, Iterations: 100
+Training Accuracy: 27.35%
+Testing Accuracy: 28.33%
+--------------------------------------------------
+Population Size: 80, Iterations: 100
+Training Accuracy: 20.04%
+Testing Accuracy: 20.00%
+--------------------------------------------------
+Population Size: 80, Iterations: 100
+Training Accuracy: 30.76%
+Testing Accuracy: 27.78%
+--------------------------------------------------
+Population Size: 80, Iterations: 200
+Training Accuracy: 21.92%
+Testing Accuracy: 18.89%
+--------------------------------------------------
+Population Size: 80, Iterations: 100
+Training Accuracy: 27.21%
+Testing Accuracy: 25.00%
+--------------------------------------------------
+Population Size: 80, Iterations: 100
+Training Accuracy: 26.65%
+Testing Accuracy: 24.44%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 31.04%
+Testing Accuracy: 29.72%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 31.04%
+Testing Accuracy: 27.22%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 17.81%
+Testing Accuracy: 19.44%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 28.04%
+Testing Accuracy: 29.17%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 21.99%
+Testing Accuracy: 18.33%
+--------------------------------------------------
+Population Size: 80, Iterations: 120
+Training Accuracy: 26.51%
+Testing Accuracy: 25.00%
+--------------------------------------------------
+Population Size: 80, Iterations: 120
+Training Accuracy: 21.85%
+Testing Accuracy: 18.61%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 20.88%
+Testing Accuracy: 17.50%
+--------------------------------------------------
+Population Size: 100, Iterations: 150
+Training Accuracy: 23.80%
+Testing Accuracy: 20.56%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 21.22%
+Testing Accuracy: 21.39%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 26.37%
+Testing Accuracy: 24.44%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 27.49%
+Testing Accuracy: 23.89%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 26.51%
+Testing Accuracy: 24.44%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 28.67%
+Testing Accuracy: 25.83%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 29.71%
+Testing Accuracy: 31.11%
+--------------------------------------------------
+Population Size: 80, Iterations: 50
+Training Accuracy: 25.82%
+Testing Accuracy: 28.33%
+--------------------------------------------------
+Population Size: 80, Iterations: 150
+Training Accuracy: 29.44%
+Testing Accuracy: 28.33%
+--------------------------------------------------
+Population Size: 200, Iterations: 150
+Training Accuracy: 30.20%
+Testing Accuracy: 27.50%
+--------------------------------------------------
+Population Size: 200, Iterations: 150
+Training Accuracy: 29.51%
+Testing Accuracy: 28.89%
+--------------------------------------------------
+Population Size: 200, Iterations: 150
+Training Accuracy: 29.16%
+Testing Accuracy: 26.94%
+--------------------------------------------------

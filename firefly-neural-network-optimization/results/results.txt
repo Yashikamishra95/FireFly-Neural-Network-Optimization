@@ -1,0 +1,31 @@
+Population Size: 40, Iterations: 120
+Training Accuracy: 9.67%
+Testing Accuracy: 11.11%
+--------------------------------------------------
+Population Size: 40, Iterations: 120
+Training Accuracy: 9.81%
+Testing Accuracy: 8.89%
+--------------------------------------------------
+Population Size: 50, Iterations: 150
+Training Accuracy: 8.77%
+Testing Accuracy: 8.61%
+--------------------------------------------------
+Dataset: UCI Optical Recognition of Handwritten Digits
+Arch: 64-64-32-10 | Aug: True | Balance: True
+MLP(64,32) warm-start: Train 92.0% Test 97.5%
+Pop=40 Iter=100 a=0.5 b0=1.0 g=0.1
+Firefly: Train 92.00% Test 97.50%
+  Digit-1: 97%  Digit-5: 100%
+-------------------------------------------------------
+Dataset: UCI Optical Recognition of Handwritten Digits
+Arch: 64-64-32-10 | Aug: True | Balance: True
+MLP(64,32) warm-start: Train 92.0%  Test 97.5%
+Pop=40 Iter=100 a=0.5 b0=1.0 g=0.1
+Firefly: Train 92.00%  Test 97.50%
+-------------------------------------------------------
+Dataset: UCI Optical Recognition of Handwritten Digits
+Arch: 64-64-32-10 | Aug: True | Balance: True
+MLP(64,32) warm-start: Train 92.0%  Test 97.5%
+Pop=40 Iter=100 a=0.5 b0=1.0 g=0.1
+Firefly: Train 92.00%  Test 97.50%
+-------------------------------------------------------
